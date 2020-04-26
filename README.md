@@ -1,5 +1,4 @@
-# cmsc23500
-Project work for Databases course at the University of Chicago
+# cmsc23500 - Databases
 
 In this repo I have included the source files I wrote with my course partner for a project called SimpleDB, a multi-user transactional database server written in Java.
 
